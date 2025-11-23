@@ -6,6 +6,4 @@ What to do with portatives is more complicated.
 
 After spending more than 20 hours testing different versions of CUDA, torch, torchvision, and various versions of wheels, I finally found a working setup.
 
-<div>
-Important: it works for me on RTX 5060TI 16GB, but I cannot guarantee that it will work on other 50x versions of NVIDIA.
-</div>
+<h1>Important: it works for me on RTX 5060TI 16GB, but I cannot guarantee that it will work on other 50x versions of NVIDIA.</h1>
